@@ -1,4 +1,4 @@
-# 8_bit_breadboard_CPU
+# 8-bit breadboard CPU
 
 > A hands-on project to understand how a CPU works by building an 8-bit CPU using breadboards and digital logic circuits.
 
