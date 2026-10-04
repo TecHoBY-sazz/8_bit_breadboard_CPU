@@ -53,7 +53,7 @@ Each stage was built and tested separately before being combined into the comple
 
 The following schematic represents the overall clock-module design used as the basis for my physical implementation.
 
-![Clock Module Schematic](images/clock_module_schematic.png)
+![Clock Module Schematic](images/clock_module_schematic.png.png)
 
 ---
 
