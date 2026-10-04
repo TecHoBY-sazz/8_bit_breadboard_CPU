@@ -109,7 +109,7 @@ Because of this, I removed the potentiometer and continued the circuit using fix
 
 ### Video
 
-[Watch the Astable 555 Timer working](videos/astable_working.mp4)
+[Watch the Astable 555 Timer working](videos/Astable_working.mp4.mp4)
 
 ---
 
@@ -181,13 +181,13 @@ After checking the power connections and correcting the missing connection, the 
 
 ### Implementation Photos
 
-![Bistable Clock Module Overview](images/bistable_clock_module_overview.png)
+![Bistable Clock Module Overview](images/bistable_clock_overview.jpg.jpeg)
 
-![Bistable Clock Module Close-up](images/bistable_clock_module_closeup.jpg)
+![Bistable Clock Module Close-up](images/bistable_clock_closeup.jpg.jpeg)
 
 ### Video
 
-[Watch the Bistable / Clock Control stage working](videos/bistable_clock_working.mp4)
+[Watch the Bistable / Clock Control stage working](videos/Bistable_working.mp4.mp4)
 
 ---
 
@@ -238,7 +238,7 @@ This was one of my first practical experiences of isolating a hardware fault by 
 
 ### Photo
 
-![Power Supply Module](images/power_supply_module_usb_issue.jpg)
+![Power Supply Module](images/power_supply_module_issue.jpg)
 
 ---
 
