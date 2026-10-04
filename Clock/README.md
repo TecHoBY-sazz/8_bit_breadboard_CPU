@@ -109,7 +109,7 @@ Because of this, I removed the potentiometer and continued the circuit using fix
 
 ### Video
 
-[Watch the Astable 555 Timer working](videos/Astable_working.mp4.mp4)
+[Watch the Astable 555 Timer working](images/Astable_working.mp4.mp4)
 
 ---
 
@@ -187,7 +187,7 @@ After checking the power connections and correcting the missing connection, the 
 
 ### Video
 
-[Watch the Bistable / Clock Control stage working](videos/Bistable_working.mp4.mp4)
+[Watch the Bistable / Clock Control stage working](images/Bistable_working.mp4.mp4)
 
 ---
 
