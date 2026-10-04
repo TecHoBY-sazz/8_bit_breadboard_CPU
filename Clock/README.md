@@ -238,7 +238,7 @@ This was one of my first practical experiences of isolating a hardware fault by 
 
 ### Photo
 
-![Power Supply Module](images/power_supply_module_issue.jpg)
+![Power Supply Module](images/power_supply_module_issue.jpg.jpeg)
 
 ---
 
