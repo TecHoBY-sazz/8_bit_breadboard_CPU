@@ -53,10 +53,12 @@ Completed:
 
 - ✅ Astable 555 Timer
 - ✅ Monostable 555 Timer
+- ✅ Bistable stage
+- ✅ Clock module
 
 Currently working on:
 
-- 🔄 Bistable stage
+- 🔄   Register
 
 The clock module is currently my main focus, and I am working towards completing it by the end of **September 2026**.
 
